@@ -1,0 +1,16 @@
+{
+  "country_code": "DE",
+  "name": "Germany",
+  "regime": "EU",
+  "national_code_scheme": "PZN",
+  "display_currency": "EUR",
+  "locale": "de-DE",
+  "registered_pharmacy_logo_url": "https://ec.europa.eu/health/sites/default/files/files/eu-logo/eu-common-logo_en.png",
+  "national_register_url": "https://www.dimdi.de/dynamic/de/arzneimittel/versandhandel/",
+  "pharmacovigilance_url": "https://www.bfarm.de/DE/Arzneimittel/Pharmakovigilanz/_node.html",
+  "default_age_restriction_years": 0,
+  "default_max_quantity_per_order": 5,
+  "withdrawal_right_copy": "Bei versiegelten Arzneimitteln ist das Widerrufsrecht aus Gruenden des Gesundheitsschutzes nach Entsiegelung ausgeschlossen (Fernabsatz).",
+  "operator_verify": true,
+  "_notice": "OPERATOR-VERIFY: all facts (code scheme, register URL, logo, caps, copy) are starting data and must be verified per jurisdiction before launch. Not legal advice."
+}

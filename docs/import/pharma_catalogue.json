@@ -1,0 +1,2529 @@
+{
+  "vbwd_export": "shop_pharma_products",
+  "version": 1,
+  "_notice": "Demo catalogue. National codes are SYNTHETIC placeholders (prefixed SYNTHETIC-OPERATOR-VERIFY) \u2014 verify per jurisdiction. Not legal advice.",
+  "shop_pharma_products": [
+    {
+      "slug": "ibuprofen-400mg",
+      "name": "Ibuprofen 400mg",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "ibuprofen"
+        ],
+        "strength": "400 mg",
+        "pharmaceutical_form": "tablet",
+        "leaflet_url": "https://leaflets.example/ibuprofen-400mg-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-ibuprofen-400mg-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-ibuprofen-400mg-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Ibuprofen 400mg"
+    },
+    {
+      "slug": "paracetamol-500mg",
+      "name": "Paracetamol 500mg",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "paracetamol"
+        ],
+        "strength": "500 mg",
+        "pharmaceutical_form": "tablet",
+        "leaflet_url": "https://leaflets.example/paracetamol-500mg-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-paracetamol-500mg-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-paracetamol-500mg-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Paracetamol 500mg"
+    },
+    {
+      "slug": "cetirizine-10mg",
+      "name": "Cetirizine 10mg",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "cetirizine"
+        ],
+        "strength": "10 mg",
+        "pharmaceutical_form": "tablet",
+        "leaflet_url": "https://leaflets.example/cetirizine-10mg-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-cetirizine-10mg-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-cetirizine-10mg-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Cetirizine 10mg"
+    },
+    {
+      "slug": "loratadine-10mg",
+      "name": "Loratadine 10mg",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "loratadine"
+        ],
+        "strength": "10 mg",
+        "pharmaceutical_form": "tablet",
+        "leaflet_url": "https://leaflets.example/loratadine-10mg-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-loratadine-10mg-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-loratadine-10mg-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Loratadine 10mg"
+    },
+    {
+      "slug": "aspirin-500mg",
+      "name": "Aspirin 500mg",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "acetylsalicylic_acid"
+        ],
+        "strength": "500 mg",
+        "pharmaceutical_form": "tablet",
+        "leaflet_url": "https://leaflets.example/aspirin-500mg-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-aspirin-500mg-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-aspirin-500mg-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Aspirin 500mg"
+    },
+    {
+      "slug": "diclofenac-25mg",
+      "name": "Diclofenac 25mg",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "diclofenac"
+        ],
+        "strength": "25 mg",
+        "pharmaceutical_form": "tablet",
+        "leaflet_url": "https://leaflets.example/diclofenac-25mg-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-diclofenac-25mg-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-diclofenac-25mg-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Diclofenac 25mg"
+    },
+    {
+      "slug": "omeprazole-20mg",
+      "name": "Omeprazole 20mg",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "omeprazole"
+        ],
+        "strength": "20 mg",
+        "pharmaceutical_form": "capsule",
+        "leaflet_url": "https://leaflets.example/omeprazole-20mg-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-omeprazole-20mg-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-omeprazole-20mg-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Omeprazole 20mg"
+    },
+    {
+      "slug": "loperamide-2mg",
+      "name": "Loperamide 2mg",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "loperamide"
+        ],
+        "strength": "2 mg",
+        "pharmaceutical_form": "capsule",
+        "leaflet_url": "https://leaflets.example/loperamide-2mg-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-loperamide-2mg-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-loperamide-2mg-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Loperamide 2mg"
+    },
+    {
+      "slug": "ibuprofen-200mg",
+      "name": "Ibuprofen 200mg",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "ibuprofen"
+        ],
+        "strength": "200 mg",
+        "pharmaceutical_form": "tablet",
+        "leaflet_url": "https://leaflets.example/ibuprofen-200mg-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-ibuprofen-200mg-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-ibuprofen-200mg-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Ibuprofen 200mg"
+    },
+    {
+      "slug": "paracetamol-1000mg",
+      "name": "Paracetamol 1000mg",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "paracetamol"
+        ],
+        "strength": "1000 mg",
+        "pharmaceutical_form": "tablet",
+        "leaflet_url": "https://leaflets.example/paracetamol-1000mg-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-paracetamol-1000mg-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-paracetamol-1000mg-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Paracetamol 1000mg"
+    },
+    {
+      "slug": "cetirizine-syrup",
+      "name": "Cetirizine 1mg/ml syrup",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "cetirizine"
+        ],
+        "strength": "1 mg/ml",
+        "pharmaceutical_form": "syrup",
+        "leaflet_url": "https://leaflets.example/cetirizine-syrup-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-cetirizine-syrup-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-cetirizine-syrup-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Cetirizine 1mg/ml syrup"
+    },
+    {
+      "slug": "ibuprofen-lysine-400",
+      "name": "Ibuprofen-lysine 400mg",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "ibuprofen_lysine"
+        ],
+        "strength": "400 mg",
+        "pharmaceutical_form": "tablet",
+        "leaflet_url": "https://leaflets.example/ibuprofen-lysine-400-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-ibuprofen-lysine-400-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-ibuprofen-lysine-400-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Ibuprofen-lysine 400mg"
+    },
+    {
+      "slug": "paracetamol-suppository",
+      "name": "Paracetamol 250mg suppository",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "paracetamol"
+        ],
+        "strength": "250 mg",
+        "pharmaceutical_form": "suppository",
+        "leaflet_url": "https://leaflets.example/paracetamol-suppository-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-paracetamol-suppository-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-paracetamol-suppository-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Paracetamol 250mg suppository"
+    },
+    {
+      "slug": "aspirin-100mg",
+      "name": "Aspirin 100mg",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "acetylsalicylic_acid"
+        ],
+        "strength": "100 mg",
+        "pharmaceutical_form": "tablet",
+        "leaflet_url": "https://leaflets.example/aspirin-100mg-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-aspirin-100mg-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-aspirin-100mg-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Aspirin 100mg"
+    },
+    {
+      "slug": "diclofenac-gel",
+      "name": "Diclofenac 1% gel",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "diclofenac"
+        ],
+        "strength": "1%",
+        "pharmaceutical_form": "gel",
+        "leaflet_url": "https://leaflets.example/diclofenac-gel-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-diclofenac-gel-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-diclofenac-gel-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Diclofenac 1% gel"
+    },
+    {
+      "slug": "loratadine-syrup",
+      "name": "Loratadine 1mg/ml syrup",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "loratadine"
+        ],
+        "strength": "1 mg/ml",
+        "pharmaceutical_form": "syrup",
+        "leaflet_url": "https://leaflets.example/loratadine-syrup-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-loratadine-syrup-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-loratadine-syrup-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Loratadine 1mg/ml syrup"
+    },
+    {
+      "slug": "omeprazole-10mg",
+      "name": "Omeprazole 10mg",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "omeprazole"
+        ],
+        "strength": "10 mg",
+        "pharmaceutical_form": "capsule",
+        "leaflet_url": "https://leaflets.example/omeprazole-10mg-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-omeprazole-10mg-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-omeprazole-10mg-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Omeprazole 10mg"
+    },
+    {
+      "slug": "ibuprofen-600mg",
+      "name": "Ibuprofen 600mg",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "ibuprofen"
+        ],
+        "strength": "600 mg",
+        "pharmaceutical_form": "tablet",
+        "leaflet_url": "https://leaflets.example/ibuprofen-600mg-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-ibuprofen-600mg-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-ibuprofen-600mg-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Ibuprofen 600mg"
+    },
+    {
+      "slug": "paracetamol-effervescent",
+      "name": "Paracetamol effervescent 500mg",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "paracetamol"
+        ],
+        "strength": "500 mg",
+        "pharmaceutical_form": "effervescent",
+        "leaflet_url": "https://leaflets.example/paracetamol-effervescent-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-paracetamol-effervescent-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-paracetamol-effervescent-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Paracetamol effervescent 500mg"
+    },
+    {
+      "slug": "cetirizine-drops",
+      "name": "Cetirizine 10mg/ml drops",
+      "product_class": "OTC",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "OTC",
+        "active_substances": [
+          "cetirizine"
+        ],
+        "strength": "10 mg/ml",
+        "pharmaceutical_form": "drops",
+        "leaflet_url": "https://leaflets.example/cetirizine-drops-pil.pdf",
+        "max_quantity_per_order": 3,
+        "withdrawal_right_exempt": true,
+        "warnings": "Read the package leaflet before use."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-cetirizine-drops-20",
+          "price": 4.99,
+          "stock": 120,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        },
+        {
+          "name": "Pack of 50",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-cetirizine-drops-50",
+          "price": 9.99,
+          "stock": 60,
+          "attributes": {
+            "pack": "Pack of 50"
+          }
+        }
+      ],
+      "tags": [
+        "otc",
+        "self-care"
+      ],
+      "image_hint": "Cetirizine 10mg/ml drops"
+    },
+    {
+      "slug": "amoxicillin-500mg",
+      "name": "Amoxicillin 500mg",
+      "product_class": "RX",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "RX",
+        "active_substances": [
+          "amoxicillin"
+        ],
+        "strength": "500 mg",
+        "pharmaceutical_form": "capsule",
+        "marketing_authorisation_holder": "Generic Pharma GmbH",
+        "leaflet_url": "https://leaflets.example/amoxicillin-500mg-pil.pdf",
+        "withdrawal_right_exempt": true,
+        "warnings": "Prescription only. Not dispensed online."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-amoxicillin-500mg-20",
+          "price": 12.5,
+          "stock": 40,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        }
+      ],
+      "tags": [
+        "rx",
+        "antibiotic"
+      ],
+      "image_hint": "Amoxicillin 500mg"
+    },
+    {
+      "slug": "ceftriaxone-1g",
+      "name": "Ceftriaxone 1g",
+      "product_class": "RX",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "RX",
+        "active_substances": [
+          "ceftriaxone"
+        ],
+        "strength": "1 g",
+        "pharmaceutical_form": "powder for solution",
+        "marketing_authorisation_holder": "Hospital Labs AG",
+        "leaflet_url": "https://leaflets.example/ceftriaxone-1g-pil.pdf",
+        "withdrawal_right_exempt": true,
+        "warnings": "Prescription only. Not dispensed online."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-ceftriaxone-1g-20",
+          "price": 12.5,
+          "stock": 40,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        }
+      ],
+      "tags": [
+        "rx",
+        "antibiotic"
+      ],
+      "image_hint": "Ceftriaxone 1g"
+    },
+    {
+      "slug": "azithromycin-250mg",
+      "name": "Azithromycin 250mg",
+      "product_class": "RX",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "RX",
+        "active_substances": [
+          "azithromycin"
+        ],
+        "strength": "250 mg",
+        "pharmaceutical_form": "tablet",
+        "marketing_authorisation_holder": "Generic Pharma GmbH",
+        "leaflet_url": "https://leaflets.example/azithromycin-250mg-pil.pdf",
+        "withdrawal_right_exempt": true,
+        "warnings": "Prescription only. Not dispensed online."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-azithromycin-250mg-20",
+          "price": 12.5,
+          "stock": 40,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        }
+      ],
+      "tags": [
+        "rx",
+        "antibiotic"
+      ],
+      "image_hint": "Azithromycin 250mg"
+    },
+    {
+      "slug": "amoxicillin-250mg",
+      "name": "Amoxicillin 250mg",
+      "product_class": "RX",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "RX",
+        "active_substances": [
+          "amoxicillin"
+        ],
+        "strength": "250 mg",
+        "pharmaceutical_form": "capsule",
+        "marketing_authorisation_holder": "Generic Pharma GmbH",
+        "leaflet_url": "https://leaflets.example/amoxicillin-250mg-pil.pdf",
+        "withdrawal_right_exempt": true,
+        "warnings": "Prescription only. Not dispensed online."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-amoxicillin-250mg-20",
+          "price": 12.5,
+          "stock": 40,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        }
+      ],
+      "tags": [
+        "rx",
+        "antibiotic"
+      ],
+      "image_hint": "Amoxicillin 250mg"
+    },
+    {
+      "slug": "ceftriaxone-2g",
+      "name": "Ceftriaxone 2g",
+      "product_class": "RX",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "RX",
+        "active_substances": [
+          "ceftriaxone"
+        ],
+        "strength": "2 g",
+        "pharmaceutical_form": "powder for solution",
+        "marketing_authorisation_holder": "Hospital Labs AG",
+        "leaflet_url": "https://leaflets.example/ceftriaxone-2g-pil.pdf",
+        "withdrawal_right_exempt": true,
+        "warnings": "Prescription only. Not dispensed online."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-ceftriaxone-2g-20",
+          "price": 12.5,
+          "stock": 40,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        }
+      ],
+      "tags": [
+        "rx",
+        "antibiotic"
+      ],
+      "image_hint": "Ceftriaxone 2g"
+    },
+    {
+      "slug": "azithromycin-500mg",
+      "name": "Azithromycin 500mg",
+      "product_class": "RX",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "RX",
+        "active_substances": [
+          "azithromycin"
+        ],
+        "strength": "500 mg",
+        "pharmaceutical_form": "tablet",
+        "marketing_authorisation_holder": "Generic Pharma GmbH",
+        "leaflet_url": "https://leaflets.example/azithromycin-500mg-pil.pdf",
+        "withdrawal_right_exempt": true,
+        "warnings": "Prescription only. Not dispensed online."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-azithromycin-500mg-20",
+          "price": 12.5,
+          "stock": 40,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        }
+      ],
+      "tags": [
+        "rx",
+        "antibiotic"
+      ],
+      "image_hint": "Azithromycin 500mg"
+    },
+    {
+      "slug": "amoxicillin-suspension",
+      "name": "Amoxicillin 125mg/5ml suspension",
+      "product_class": "RX",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "RX",
+        "active_substances": [
+          "amoxicillin"
+        ],
+        "strength": "125 mg/5 ml",
+        "pharmaceutical_form": "suspension",
+        "marketing_authorisation_holder": "Generic Pharma GmbH",
+        "leaflet_url": "https://leaflets.example/amoxicillin-suspension-pil.pdf",
+        "withdrawal_right_exempt": true,
+        "warnings": "Prescription only. Not dispensed online."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-amoxicillin-suspension-20",
+          "price": 12.5,
+          "stock": 40,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        }
+      ],
+      "tags": [
+        "rx",
+        "antibiotic"
+      ],
+      "image_hint": "Amoxicillin 125mg/5ml suspension"
+    },
+    {
+      "slug": "azithromycin-suspension",
+      "name": "Azithromycin 200mg/5ml suspension",
+      "product_class": "RX",
+      "tax_class": "reduced",
+      "pharma_profile": {
+        "product_class": "RX",
+        "active_substances": [
+          "azithromycin"
+        ],
+        "strength": "200 mg/5 ml",
+        "pharmaceutical_form": "suspension",
+        "marketing_authorisation_holder": "Generic Pharma GmbH",
+        "leaflet_url": "https://leaflets.example/azithromycin-suspension-pil.pdf",
+        "withdrawal_right_exempt": true,
+        "warnings": "Prescription only. Not dispensed online."
+      },
+      "variants": [
+        {
+          "name": "Pack of 20",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-azithromycin-suspension-20",
+          "price": 12.5,
+          "stock": 40,
+          "attributes": {
+            "pack": "Pack of 20"
+          }
+        }
+      ],
+      "tags": [
+        "rx",
+        "antibiotic"
+      ],
+      "image_hint": "Azithromycin 200mg/5ml suspension"
+    },
+    {
+      "slug": "digital-thermometer",
+      "name": "Digital thermometer",
+      "product_class": "MEDICAL_DEVICE",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "MEDICAL_DEVICE",
+        "device_marking": "CE 0123 / class I",
+        "leaflet_url": "https://leaflets.example/digital-thermometer-ifu.pdf",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature."
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-digital-thermometer-1",
+          "price": 19.9,
+          "stock": 80,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "device",
+        "diagnostics"
+      ],
+      "image_hint": "Digital thermometer"
+    },
+    {
+      "slug": "bp-monitor",
+      "name": "Blood pressure monitor (upper arm)",
+      "product_class": "MEDICAL_DEVICE",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "MEDICAL_DEVICE",
+        "device_marking": "CE 0123 / class IIa",
+        "leaflet_url": "https://leaflets.example/bp-monitor-ifu.pdf",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature."
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-bp-monitor-1",
+          "price": 19.9,
+          "stock": 80,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "device",
+        "diagnostics"
+      ],
+      "image_hint": "Blood pressure monitor (upper arm)"
+    },
+    {
+      "slug": "pulse-oximeter",
+      "name": "Fingertip pulse oximeter",
+      "product_class": "MEDICAL_DEVICE",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "MEDICAL_DEVICE",
+        "device_marking": "CE 0123 / class IIa",
+        "leaflet_url": "https://leaflets.example/pulse-oximeter-ifu.pdf",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature."
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-pulse-oximeter-1",
+          "price": 19.9,
+          "stock": 80,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "device",
+        "diagnostics"
+      ],
+      "image_hint": "Fingertip pulse oximeter"
+    },
+    {
+      "slug": "covid-antigen-test",
+      "name": "COVID-19 antigen self-test",
+      "product_class": "MEDICAL_DEVICE",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "MEDICAL_DEVICE",
+        "device_marking": "CE 0123 / IVD",
+        "leaflet_url": "https://leaflets.example/covid-antigen-test-ifu.pdf",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature."
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-covid-antigen-test-1",
+          "price": 19.9,
+          "stock": 80,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "device",
+        "diagnostics"
+      ],
+      "image_hint": "COVID-19 antigen self-test"
+    },
+    {
+      "slug": "ear-thermometer",
+      "name": "Infrared ear thermometer",
+      "product_class": "MEDICAL_DEVICE",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "MEDICAL_DEVICE",
+        "device_marking": "CE 0123 / class IIa",
+        "leaflet_url": "https://leaflets.example/ear-thermometer-ifu.pdf",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature."
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-ear-thermometer-1",
+          "price": 19.9,
+          "stock": 80,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "device",
+        "diagnostics"
+      ],
+      "image_hint": "Infrared ear thermometer"
+    },
+    {
+      "slug": "nebulizer",
+      "name": "Compressor nebulizer",
+      "product_class": "MEDICAL_DEVICE",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "MEDICAL_DEVICE",
+        "device_marking": "CE 0123 / class IIa",
+        "leaflet_url": "https://leaflets.example/nebulizer-ifu.pdf",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature."
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-nebulizer-1",
+          "price": 19.9,
+          "stock": 80,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "device",
+        "diagnostics"
+      ],
+      "image_hint": "Compressor nebulizer"
+    },
+    {
+      "slug": "blood-glucose-meter",
+      "name": "Blood glucose meter",
+      "product_class": "MEDICAL_DEVICE",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "MEDICAL_DEVICE",
+        "device_marking": "CE 0123 / IVD",
+        "leaflet_url": "https://leaflets.example/blood-glucose-meter-ifu.pdf",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature."
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-blood-glucose-meter-1",
+          "price": 19.9,
+          "stock": 80,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "device",
+        "diagnostics"
+      ],
+      "image_hint": "Blood glucose meter"
+    },
+    {
+      "slug": "wrist-bp-monitor",
+      "name": "Wrist blood pressure monitor",
+      "product_class": "MEDICAL_DEVICE",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "MEDICAL_DEVICE",
+        "device_marking": "CE 0123 / class IIa",
+        "leaflet_url": "https://leaflets.example/wrist-bp-monitor-ifu.pdf",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature."
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-wrist-bp-monitor-1",
+          "price": 19.9,
+          "stock": 80,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "device",
+        "diagnostics"
+      ],
+      "image_hint": "Wrist blood pressure monitor"
+    },
+    {
+      "slug": "forehead-thermometer",
+      "name": "Non-contact forehead thermometer",
+      "product_class": "MEDICAL_DEVICE",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "MEDICAL_DEVICE",
+        "device_marking": "CE 0123 / class IIa",
+        "leaflet_url": "https://leaflets.example/forehead-thermometer-ifu.pdf",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature."
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-forehead-thermometer-1",
+          "price": 19.9,
+          "stock": 80,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "device",
+        "diagnostics"
+      ],
+      "image_hint": "Non-contact forehead thermometer"
+    },
+    {
+      "slug": "peak-flow-meter",
+      "name": "Peak flow meter",
+      "product_class": "MEDICAL_DEVICE",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "MEDICAL_DEVICE",
+        "device_marking": "CE 0123 / class I",
+        "leaflet_url": "https://leaflets.example/peak-flow-meter-ifu.pdf",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature."
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-peak-flow-meter-1",
+          "price": 19.9,
+          "stock": 80,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "device",
+        "diagnostics"
+      ],
+      "image_hint": "Peak flow meter"
+    },
+    {
+      "slug": "sterile-gauze-swabs",
+      "name": "Sterile gauze swabs 10x10cm",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": true,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-sterile-gauze-swabs-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-sterile-gauze-swabs-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Sterile gauze swabs 10x10cm"
+    },
+    {
+      "slug": "nitrile-gloves-m",
+      "name": "Nitrile examination gloves (M)",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": false,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-nitrile-gloves-m-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-nitrile-gloves-m-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Nitrile examination gloves (M)"
+    },
+    {
+      "slug": "disposable-syringes-5ml",
+      "name": "Disposable syringes 5ml",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": true,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-disposable-syringes-5ml-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-disposable-syringes-5ml-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Disposable syringes 5ml"
+    },
+    {
+      "slug": "antiseptic-solution",
+      "name": "Antiseptic skin solution 250ml",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": false,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-antiseptic-solution-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-antiseptic-solution-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Antiseptic skin solution 250ml"
+    },
+    {
+      "slug": "sterile-bandages",
+      "name": "Sterile bandages 5cm",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": false,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-sterile-bandages-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-sterile-bandages-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Sterile bandages 5cm"
+    },
+    {
+      "slug": "alcohol-swabs",
+      "name": "Alcohol prep swabs",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": false,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-alcohol-swabs-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-alcohol-swabs-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Alcohol prep swabs"
+    },
+    {
+      "slug": "nitrile-gloves-l",
+      "name": "Nitrile examination gloves (L)",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": false,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-nitrile-gloves-l-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-nitrile-gloves-l-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Nitrile examination gloves (L)"
+    },
+    {
+      "slug": "disposable-syringes-10ml",
+      "name": "Disposable syringes 10ml",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": true,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-disposable-syringes-10ml-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-disposable-syringes-10ml-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Disposable syringes 10ml"
+    },
+    {
+      "slug": "wound-dressing",
+      "name": "Adhesive wound dressing 10x10cm",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": false,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-wound-dressing-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-wound-dressing-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Adhesive wound dressing 10x10cm"
+    },
+    {
+      "slug": "surgical-face-masks",
+      "name": "Surgical face masks type IIR",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": false,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-surgical-face-masks-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-surgical-face-masks-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Surgical face masks type IIR"
+    },
+    {
+      "slug": "examination-gowns",
+      "name": "Disposable examination gowns",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": true,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-examination-gowns-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-examination-gowns-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Disposable examination gowns"
+    },
+    {
+      "slug": "cotton-wool-rolls",
+      "name": "Cotton wool rolls 500g",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": false,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-cotton-wool-rolls-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-cotton-wool-rolls-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Cotton wool rolls 500g"
+    },
+    {
+      "slug": "hypodermic-needles",
+      "name": "Hypodermic needles 21G",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": true,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-hypodermic-needles-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-hypodermic-needles-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Hypodermic needles 21G"
+    },
+    {
+      "slug": "saline-irrigation",
+      "name": "Sterile saline irrigation 100ml",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": true,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-saline-irrigation-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-saline-irrigation-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Sterile saline irrigation 100ml"
+    },
+    {
+      "slug": "crepe-bandages",
+      "name": "Crepe support bandages 7.5cm",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": false,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-crepe-bandages-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-crepe-bandages-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Crepe support bandages 7.5cm"
+    },
+    {
+      "slug": "instrument-wipes",
+      "name": "Surface disinfectant wipes",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": false,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-instrument-wipes-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-instrument-wipes-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Surface disinfectant wipes"
+    },
+    {
+      "slug": "medical-tape",
+      "name": "Microporous medical tape",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": false,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-medical-tape-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-medical-tape-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Microporous medical tape"
+    },
+    {
+      "slug": "sterile-drapes",
+      "name": "Sterile surgical drapes",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": true,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-sterile-drapes-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-sterile-drapes-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Sterile surgical drapes"
+    },
+    {
+      "slug": "examination-couch-roll",
+      "name": "Examination couch roll",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": false,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-examination-couch-roll-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-examination-couch-roll-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Examination couch roll"
+    },
+    {
+      "slug": "biohazard-bags",
+      "name": "Biohazard waste bags",
+      "product_class": "FMCG_HOSPITAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_HOSPITAL",
+        "professional_only": true,
+        "storage_conditions": "Store in a dry place.",
+        "withdrawal_right_exempt": false,
+        "max_quantity_per_order": 50
+      },
+      "variants": [
+        {
+          "name": "Box of 100",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-biohazard-bags-100",
+          "price": 14.5,
+          "stock": 200,
+          "attributes": {
+            "pack": "Box of 100"
+          }
+        },
+        {
+          "name": "Case of 10 boxes",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-biohazard-bags-case",
+          "price": 120.0,
+          "stock": 25,
+          "attributes": {
+            "pack": "Case of 10 boxes"
+          }
+        }
+      ],
+      "tags": [
+        "clinical",
+        "consumable"
+      ],
+      "image_hint": "Biohazard waste bags"
+    },
+    {
+      "slug": "vitamin-d3-1000iu",
+      "name": "Vitamin D3 1000 IU",
+      "product_class": "FMCG_PERSONAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_PERSONAL",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature.",
+        "active_substances": [
+          "cholecalciferol"
+        ],
+        "strength": "1000 IU"
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-vitamin-d3-1000iu-1",
+          "price": 7.49,
+          "stock": 150,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "personal-care",
+        "wellness"
+      ],
+      "image_hint": "Vitamin D3 1000 IU"
+    },
+    {
+      "slug": "vitamin-c-500mg",
+      "name": "Vitamin C 500mg",
+      "product_class": "FMCG_PERSONAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_PERSONAL",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature.",
+        "active_substances": [
+          "ascorbic_acid"
+        ],
+        "strength": "500 mg"
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-vitamin-c-500mg-1",
+          "price": 7.49,
+          "stock": 150,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "personal-care",
+        "wellness"
+      ],
+      "image_hint": "Vitamin C 500mg"
+    },
+    {
+      "slug": "vitamin-d3-2000iu",
+      "name": "Vitamin D3 2000 IU",
+      "product_class": "FMCG_PERSONAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_PERSONAL",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature.",
+        "active_substances": [
+          "cholecalciferol"
+        ],
+        "strength": "2000 IU"
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-vitamin-d3-2000iu-1",
+          "price": 7.49,
+          "stock": 150,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "personal-care",
+        "wellness"
+      ],
+      "image_hint": "Vitamin D3 2000 IU"
+    },
+    {
+      "slug": "vitamin-c-1000mg",
+      "name": "Vitamin C 1000mg effervescent",
+      "product_class": "FMCG_PERSONAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_PERSONAL",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature.",
+        "active_substances": [
+          "ascorbic_acid"
+        ],
+        "strength": "1000 mg"
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-vitamin-c-1000mg-1",
+          "price": 7.49,
+          "stock": 150,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "personal-care",
+        "wellness"
+      ],
+      "image_hint": "Vitamin C 1000mg effervescent"
+    },
+    {
+      "slug": "hand-sanitiser-gel",
+      "name": "Hand sanitiser gel 500ml",
+      "product_class": "FMCG_PERSONAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_PERSONAL",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature."
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-hand-sanitiser-gel-1",
+          "price": 7.49,
+          "stock": 150,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "personal-care",
+        "wellness"
+      ],
+      "image_hint": "Hand sanitiser gel 500ml"
+    },
+    {
+      "slug": "toothpaste-fluoride",
+      "name": "Fluoride toothpaste 75ml",
+      "product_class": "FMCG_PERSONAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_PERSONAL",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature."
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-toothpaste-fluoride-1",
+          "price": 7.49,
+          "stock": 150,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "personal-care",
+        "wellness"
+      ],
+      "image_hint": "Fluoride toothpaste 75ml"
+    },
+    {
+      "slug": "moisturising-cream",
+      "name": "Moisturising body cream 250ml",
+      "product_class": "FMCG_PERSONAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_PERSONAL",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature."
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-moisturising-cream-1",
+          "price": 7.49,
+          "stock": 150,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "personal-care",
+        "wellness"
+      ],
+      "image_hint": "Moisturising body cream 250ml"
+    },
+    {
+      "slug": "sunscreen-spf50",
+      "name": "Sunscreen SPF 50 200ml",
+      "product_class": "FMCG_PERSONAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_PERSONAL",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature."
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-sunscreen-spf50-1",
+          "price": 7.49,
+          "stock": 150,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "personal-care",
+        "wellness"
+      ],
+      "image_hint": "Sunscreen SPF 50 200ml"
+    },
+    {
+      "slug": "lip-balm",
+      "name": "Lip balm with SPF 15",
+      "product_class": "FMCG_PERSONAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_PERSONAL",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature."
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-lip-balm-1",
+          "price": 7.49,
+          "stock": 150,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "personal-care",
+        "wellness"
+      ],
+      "image_hint": "Lip balm with SPF 15"
+    },
+    {
+      "slug": "shower-gel",
+      "name": "Gentle shower gel 300ml",
+      "product_class": "FMCG_PERSONAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_PERSONAL",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature."
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-shower-gel-1",
+          "price": 7.49,
+          "stock": 150,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "personal-care",
+        "wellness"
+      ],
+      "image_hint": "Gentle shower gel 300ml"
+    },
+    {
+      "slug": "multivitamin-tablets",
+      "name": "Daily multivitamin tablets",
+      "product_class": "FMCG_PERSONAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_PERSONAL",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature."
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-multivitamin-tablets-1",
+          "price": 7.49,
+          "stock": 150,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "personal-care",
+        "wellness"
+      ],
+      "image_hint": "Daily multivitamin tablets"
+    },
+    {
+      "slug": "omega3-capsules",
+      "name": "Omega-3 fish oil capsules",
+      "product_class": "FMCG_PERSONAL",
+      "tax_class": "standard",
+      "pharma_profile": {
+        "product_class": "FMCG_PERSONAL",
+        "withdrawal_right_exempt": false,
+        "storage_conditions": "Store at room temperature."
+      },
+      "variants": [
+        {
+          "name": "Single unit",
+          "sku": "SYNTHETIC-OPERATOR-VERIFY-omega3-capsules-1",
+          "price": 7.49,
+          "stock": 150,
+          "attributes": {
+            "pack": "Single unit"
+          }
+        }
+      ],
+      "tags": [
+        "personal-care",
+        "wellness"
+      ],
+      "image_hint": "Omega-3 fish oil capsules"
+    }
+  ]
+}

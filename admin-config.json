@@ -1,0 +1,19 @@
+{
+  "tabs": [
+    {
+      "id": "general",
+      "label": "General",
+      "fields": [
+        { "key": "debug_mode", "label": "Debug mode", "component": "checkbox", "description": "Verbose pharma-module logging" }
+      ]
+    },
+    {
+      "id": "compliance",
+      "label": "Compliance & region",
+      "fields": [
+        { "key": "active_region", "label": "Active region (country code)", "component": "select", "options": ["DE", "PL", "FR", "NL", "ES", "IT", "BG", "RO", "BE", "UK", "US"], "description": "The single active jurisdiction; the region pack JSON lives under var/shop_pharma/regions/<cc>.json (bundled de.json is the reference). OPERATOR-VERIFY all jurisdiction facts before launch." },
+        { "key": "rx_blocked_online", "label": "Block RX from online purchase", "component": "checkbox", "description": "Prescription-only medicines are not dispensed online (recommended; e-prescription deferred)" }
+      ]
+    }
+  ]
+}
